@@ -48,7 +48,7 @@ Requirements
 
 5. Access the Application
    - Visit:  
-     'http://localhost:8080/FeedbackCollectionSystem/home.jsp'
+     'http://localhost:8080/Feedback_Collection_System/home.jsp'
 
 ----------------------------------------
 
